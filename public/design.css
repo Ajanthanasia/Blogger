@@ -1,0 +1,54 @@
+.homecard
+{
+    margin-bottom:10px;
+    border-radius: 1rem;
+    padding-top:1.5%;
+    padding-bottom:1.5%;
+    background-color:rgb(247, 232, 234);
+}
+.butcap
+{
+    width:50%;
+}
+
+
+.post_card {
+    margin-left:2%;
+    margin-top:1%;
+    padding-left:3%;
+    background-color:lightpink;
+    border-radius:1rem;
+}
+
+.hight_home {
+    height: 150%;
+}
+
+.circle_img
+{
+    height:60px;
+    width:60px;
+    border-radius:100%;
+}
+
+.hide {
+    display: none;
+}
+
+.circle:hover + .hide {
+    display: block;
+    color: red;
+}
+
+.img_card {
+    height:100x;
+    width:100px;
+}
+.link_post {
+    color:rgb(117, 24, 40);
+}
+
+.post_img {
+    height:100px;
+    width:100px;
+}

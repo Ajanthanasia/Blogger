@@ -1,0 +1,39 @@
+.card_post_item {
+    margin-left:2%;
+    margin-top:1%;
+    padding-left:3%;
+    padding-right:3%;
+    padding-bottom:3%;
+    border-radius:1rem;
+    border:solid blue 1px;
+    background-color: grey;
+}
+
+.card_post_item {
+    width:200%;
+    height: 200px;
+    padding-top:10px;
+}
+.post_image {
+    float:left;
+    margin-left:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    width:180px;
+    height: 180px;
+}
+.post_image_item {
+    border-radius:1rem;
+    width:180px;
+    height: 180px;
+}
+.post_details {
+    float:left;
+    width: 70%;
+    margin-left:20px;
+    margin-top:10px;
+}
+.like_button {
+    height: 20px;
+    width: 20px;
+}
